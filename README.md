@@ -1,2 +1,2 @@
 # codepath
-codepath assignmetns
+codepath assignments
